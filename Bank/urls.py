@@ -30,4 +30,4 @@ urlpatterns = [
     path('user_info/',user.user_info),
 ]
 
-urlpatterns += static(settings.STATIC_URl, document_root=settings.STATIC_ROOT)
+# urlpatterns += static(settings.STATIC_URl, document_root=settings.STATIC_ROOT)
