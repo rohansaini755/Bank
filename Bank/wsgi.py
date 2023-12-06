@@ -15,4 +15,4 @@ os.environ.setdefault('DJd:\bank project.zipANGO_SETTINGS_MODULE', 'Bank.setting
 
 application = get_wsgi_application()
 
-# app = application
+app = application
